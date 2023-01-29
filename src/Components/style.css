@@ -1,0 +1,14 @@
+table td {
+    border: 1px solid gray;
+    width: 100px;
+    height: 100px;
+}
+
+.responsive {
+    margin: 2vh 20vw;
+}
+
+
+.margin{
+    margin: 5vh auto auto auto;
+}
